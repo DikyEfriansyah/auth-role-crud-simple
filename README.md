@@ -24,7 +24,7 @@ Go to the project directory
 ```bash
     php artisan key:generate
 ```
-### optional if you use file database
+### optional jika tidak menggunakan file database
 ```bash
     php artisan migrate:fresh --seed
 ```
